@@ -1,0 +1,16 @@
+{
+  "name": "Lab 1: EDA",
+  "endpoint": "cal/data88-4/sp20/lab01_eda",
+  "src": [
+    "Lab01_EDA.ipynb"
+   ],
+   "tests": {
+       "tests/q*.py": "ok_test"
+   },
+   "protocols": [
+       "file_contents",
+       "grading",
+       "backup"
+ ]
+}
+  
