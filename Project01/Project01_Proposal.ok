@@ -1,6 +1,6 @@
 {
   "name": "Project 1: Proposal",
-  "endpoint": "cal/data88-4/sp20/project07_proposal",
+  "endpoint": "cal/data88-4/sp20/project01_proposal",
   "src": [
     "Project01_Proposal.ipynb"
    ],
