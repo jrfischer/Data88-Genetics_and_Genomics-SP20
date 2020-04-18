@@ -1,0 +1,16 @@
+{
+  "name": "Project 1: Proposal",
+  "endpoint": "cal/data88-4/sp20/project02_report",
+  "src": [
+    "Project02_Report.ipynb"
+   ],
+   "tests": {
+       "tests/q*.py": "ok_test"
+   },
+   "protocols": [
+       "file_contents",
+       "grading",
+       "backup"
+ ]
+}
+  
