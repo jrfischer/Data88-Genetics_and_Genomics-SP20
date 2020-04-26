@@ -1,0 +1,15 @@
+{
+  "name": "Lab 9: GWAS",
+  "endpoint": "cal/data88-4/sp20/lab09_gwas",
+  "src": [
+    "Lab09_GWAS.ipynb"
+   ],
+   "tests": {
+       "tests/q*.py": "ok_test"
+   },
+   "protocols": [
+       "file_contents",
+       "grading",
+       "backup"
+ ]
+}
